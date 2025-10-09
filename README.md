@@ -103,8 +103,11 @@ Together, they provide both statistical isolation and boundary-based learning, g
 
 ## Evaluation
 Performance Metrics (vs manually set ground truth)
+
 Model	Precision	Recall	F1-Score	Accuracy
+
 Isolation Forest	0.23	0.23	0.23	0.94
+
 One-Class SVM	0.20	0.20	0.20	0.94
 
 ## Observations:
